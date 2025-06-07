@@ -13,6 +13,7 @@ URL:		https://gnupg.org/download/index.html
 License:	GPL
 Group:		System/Libraries
 BuildRequires:	pkgconfig(gpgmepp) >= 2.0.0
+BuildRequires:	qmake5
 BuildRequires:	cmake(Qt5Core)
 BuildRequires:	cmake(Qt5Test)
 BuildRequires:	cmake(Qt6CorePrivate)
